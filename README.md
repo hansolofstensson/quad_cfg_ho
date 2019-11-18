@@ -1,6 +1,6 @@
 # quad_cfg_ho
 Sets up a Quad 2 card for 8 independent I/Os
-Modified to work on DOU 2 cards
+Modified to work on DUO 2 cards
 
 Make sure SDK_PATH in the Makefile points to the SDK's include directory e.g.
 
